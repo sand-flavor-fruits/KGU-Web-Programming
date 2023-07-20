@@ -1,0 +1,36 @@
+INSERT INTO flower VALUES('RB-0001', '레드 장미 한 송이', '[한송이]', 1500, '레드 장미', '국산(장미)', 'red_1.png', 'red_1.png');
+INSERT INTO flower VALUES('RB-0002', '핑크 장미 한 송이', '[한송이]', 1500, '핑크 장미', '국산(장미)', 'pink_1.png', 'pink_1.png');
+INSERT INTO flower VALUES('RB-0003', '화이트 장미 한 송이', '[한송이]', 1500, '화이트 장미', '국산(장미)', 'white_1.png', 'white_1.png');
+INSERT INTO flower VALUES('TB-0001', '레드 튤립 한 송이', '[한송이]', 1700, '레드 튤립', '네덜란드(튤립)', 'redtulip_1.png', 'redtulip_1.png');
+INSERT INTO flower VALUES('TB-0002', '핑크 튤립 한 송이', '[한송이]', 1700, '핑크 튤립', '네덜란드(튤립)', 'pinktulip_1.png', 'pinktulip_1.png');
+INSERT INTO flower VALUES('TB-0003', '화이트 튤립 한 송이', '[한송이]', 1700, '화이트 튤립', '네덜란드(튤립)', 'whitetulip_1.png', 'rewhitetulip_1.png');
+INSERT INTO flower VALUES('RB-0004', '블루 꽃다발', '[꽃다발]', 55000, '핑크블루 장미, 화이트블루 소국, 화이트블루 리시안셔스 등', '국산(장미, 소국, 리시안셔스)', 'blue1.png', 'blue2.png');
+INSERT INTO flower VALUES('EB-0001', '화이트 꽃다발', '[꽃다발]', 1500, '화이트 작약, 화이트 리시안셔스, 화이트 장미, 돌단풍 등', '중국(작약), 국산(리시안셔스, 장미, 돌단풍)', 'white1.png', 'white2.png');
+INSERT INTO flower VALUES('RB-0005', '핑크 꽃다발', '[꽃다발]', 60000, '핑크 장미, 화이트 장미, 핑크 돌단풍 등', '국산(장미, 돌단풍)', 'pink1.png', 'pink2.png','');
+INSERT INTO flower VALUES('EB-0002', '옐로우 꽃다발', '[꽃다발]', 52000, '화이트 리시안셔스, 옐로우 라넌큘러스, 옐로우 장미, 옐로우 소국 등', '국산(리시안셔스, 장미, 소국), 네덜란드(라넌큘러스)', 'yellow1.png', 'yellow2.png');
+INSERT INTO flower VALUES('RB-0006', '레드 장미 100송이 꽃다발', '[꽃다발]', 210000, '레드 장미', '국산(장미)', 'redrose1001.png', 'redrose1002.png');
+INSERT INTO flower VALUES('MB-0001', '메리골드 꽃다발', '[꽃다발]', 62000, '오렌지 메리골드, 옐로우 소국, 레드 소국, 옐로우 장미 등', '국산(메리골드, 소국, 장미)', 'yellowMarigold1.png', 'yellowMarigold2.png');
+INSERT INTO flower VALUES('SB-0001', '해바라기 꽃다발', '[꽃다발]', 53000, '해바라기, 코랄 장미', '국산(해바라기, 장미)', 'sunflower1.png', 'sunflower2.png');
+INSERT INTO flower VALUES('CB-0001', '목화 꽃다발', '[꽃다발]', 27000, '목화, 돌단풍, 핑크 안개꽃, 랴그라스 등', '국산(목화, 돌단풍, 안개꽃), 이탈리아(라그라스)', 'cotton1.png', 'cotton2.png');
+INSERT INTO flower VALUES('LB-0001', '백합 꽃다발', '[꽃다발]', 38000, '화이트 백합', '국산(백합)', 'lily1.png', 'lily2.png');
+INSERT INTO flower VALUES('HB-0001', '블루 수국 꽃다발', '[꽃다발]', 64000, '블루 수국, 화이트 리시안셔스, 코랄 라넌큘러스, 화이트 퐁퐁 국화 등', '국산(수국, 리시안셔스), 네덜란드(라넌큘러스), 중국(퐁퐁 국화)', 'hydrangea1.png', 'hydrangea2.png');
+INSERT INTO flower VALUES('GB-0001', '블루 안개꽃 꽃다발', '[꽃다발]', 65000, '블루 안개꽃', '국산(안개꽃)', 'bluegypsophila1.png', 'bluegypsophila2.png');
+INSERT INTO flower VALUES('RX-0007', '하트 장미 바구니', '[바구니]', 160000, '레드 장미, 화이트 장미, 옐로우 소국, 안개꽃 등', '국산(장미, 소국, 안개꽃', 'heartbox1.png', 'heartbox2.png');
+INSERT INTO flower VALUES('RX-0008', '레드 장미 바구니', '[바구니]', 65000, '레드 장미, 레드 퐁퐁 소국, 레드 소국 등', '국산(장미, 소국), 중국(퐁퐁 소국)', 'redbox1.png', 'redbox2.png');
+INSERT INTO flower VALUES('RX-0009', '옐로우 장미 바구니', '[바구니]', 68000, '화이트 장미, 옐로우 라넌큘러스 등', '국산(장미), 네덜란드(라넌큘러스)', 'yellowbox1.png', 'yellowbox2.png');
+INSERT INTO flower VALUES('RX-0010', '퍼플 장미 바구니', '[바구니]', 72000, '퍼플 장미, 블루 장미, 화이트 장미, 핑크 장미 등', '국산(장미)', 'purplebox1.png', 'purplebox2.png');
+INSERT INTO flower VALUES('HX-0002', '수국 바구니', '[바구니]', 70000, '화이트 수국, 블루 수국, 그린 수국 등', '국산(수국)', 'hydrangeabox1.png', 'hydrangeabox2.png');
+INSERT INTO flower VALUES('CO-0002', '블루 클레마티스 풍선 꽃다발', '[풍선]', 23000, '블루 클레마티스', '중국(클레마티스)', 'balloonblueClematis1.png', 'balloonblueClematis2.png');
+INSERT INTO flower VALUES('RO-0011', '골드 풍선 꽃다발', '[풍선]', 20000, '골드 장미, 안개꽃 등', '중국(골드 장미), 국산(안개꽃)', 'balloongold1.png', 'balloongold2.png');
+INSERT INTO flower VALUES('TO-0004', '핑크 튤립 풍선 꽃다발', '[풍선]', 25000, '핑크 튤립', '네덜란드(튤립)', 'balloontulip1.png', 'balloontulip2.png');
+INSERT INTO flower VALUES('EO-0003', '화이트 풍선 꽃다발', '[풍선]', 28000, '화이트 라넌큘러스, 화이트 국화 등', '네덜란드(라넌큘러스), 국산(국화)', 'balloonwhite1.png', 'balloonwhite2.png');
+INSERT INTO flower VALUES('RS-0012', '오로라 비누 장미 꽃다발', '[비누]', 18000, '오로라 비누 장미, 핑크 미니 소국 등', '중국(비누 장미), 국산(핑크 미니 소국)', 'soapaurora1.png', 'soapaurora2.png');
+INSERT INTO flower VALUES('TS-0005', '핑크 비누 튤립 꽃다발', '[비누]', 15000, '핑크 비누 튤립', '중국(비누 튤립)', 'soappink1.png', 'soappink2.png');
+INSERT INTO flower VALUES('RS-0013', '퍼플 비누 장미 꽃다발', '[비누]', 25000, '퍼플 비누 장미, 핑크 비누 장미', '중국(비누 장미)', 'soappurple1.png', 'soappurple2.png');
+INSERT INTO flower VALUES('RS-0014', '민트 비누 장미 꽃다발', '[비누]', 26000, '민트 비누 장미', '중국(비누 장미', 'soapmint1.png', 'soapmint2.png');
+INSERT INTO flower VALUES('NP-0001', '안시리움', '[관엽식물]', 58000, '안시리움', '콜롬비아(안시리움)', 'ansirium1.png', 'ansirium2.png');
+INSERT INTO flower VALUES('NP-0002', '만세선인장', '[관엽식물]', 149000, '만세선인장', '중국(만세선인장)', 'Cactus1.png', 'Cactus2.png');
+INSERT INTO flower VALUES('NP-0003', '산세베리아', '[관엽식물]', 70000, '산세베리아', '이탈리아(산세베리아)', 'sansevieria1.png', 'sansevieria2.png');
+INSERT INTO flower VALUES('NP-0004', '동양란', '[관엽식물]', 199000, '동양란', '국산(동양란)', 'goldendragon1.png', 'goldendragon2.png');
+
+
